@@ -1,0 +1,6 @@
+streamlit==1.24.1
+pandas==1.5.3
+numpy==1.23.5
+keras==2.12.0
+tensorflow==2.12.0  # Since Keras is a part of TensorFlow now
+openpyxl==3.0.10  # If you are using pandas to read Excel files
